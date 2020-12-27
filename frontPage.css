@@ -1,0 +1,14 @@
+/* h1 {
+    color: red;
+    text-decoration: underline;
+    letter-spacing: 20px;
+} */
+
+#lions {
+    border-style: dashed;
+}
+
+.visit {
+    color: pink;
+    text-transform: capitalize;
+}
